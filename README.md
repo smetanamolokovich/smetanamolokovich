@@ -1,8 +1,8 @@
-### Aituar Abdil 👋
+### Hi, I'm Aituar 👋
 
 - 💻 Dev stack: JS, TypeScript, React, Redux, Node, MongoDB
 - 📫 How to reach me: aituufs@gmail.com, @masterwork33 (telegram)
-- 🌱 I’m currently learning: Golang
+- 🌱 I’m currently learning: Golang, Docker, CI/CD
 
 <!--
 **smetanamolokovich/smetanamolokovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
