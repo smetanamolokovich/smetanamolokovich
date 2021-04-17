@@ -4,6 +4,8 @@
 - 📫 How to reach me: aituufs@gmail.com, @masterwork33 (telegram)
 - 🌱 I’m currently learning: Golang, Docker, CI/CD
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smetanamolokovich)](https://github.com/smetanamolokovich/github-readme-stats)
+
 <!--
 **smetanamolokovich/smetanamolokovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
