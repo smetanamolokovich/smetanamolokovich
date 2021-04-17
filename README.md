@@ -4,7 +4,7 @@
 - 📫 How to reach me: aituufs@gmail.com, @masterwork33 (telegram)
 - 🌱 I’m currently learning: Golang, Docker, CI/CD
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smetanamolokovich&show_icons=true&hide_title=true" alt="smetanamolokovich" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=smetanamolokovich&show_icons=true&hide_title=true&theme=dracula" alt="smetanamolokovich" /></p>
 <!--
 **smetanamolokovich/smetanamolokovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
