@@ -1,5 +1,5 @@
 ## Hi, I'm Aituar 👋
-#### Frontend developer. based in Prague.
+#### Frontend developer. Based in Prague.
 - 💻 Dev stack: JS, TypeScript, React, Redux, Node, MongoDB
 - 📫 How to reach me: aituufs@gmail.com, @masterwork33 (telegram)
 - 🌱 I’m currently learning: Golang, Docker, CI/CD
