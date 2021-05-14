@@ -3,7 +3,7 @@
 - 💻 Dev stack: JS/TS, React, Vue, Node, MongoDB
 - 📫 Email: aituufs@gmail.com
 - 💬 Telegram: @masterwork33
-- 🌱 I’m currently learning: Golang, Docker, CI/CD
+- 🌱 I’m currently learning: Golang, Docker, CI/CD, gRPC
 
 <!--
 **smetanamolokovich/smetanamolokovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
