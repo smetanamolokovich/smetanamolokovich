@@ -2,7 +2,7 @@
 #### Frontend developer. Based in Prague.
 - 💻 Dev stack: JS/TS, React, Vue, Node, MongoDB
 - 📫 Email: aituufs@gmail.com
-- 💬 Telegram: @masterwork33
+- 💬 Telegram: @smetanamolokovich
 - 🌱 I’m currently learning: Golang, Docker, CI/CD, gRPC
 
 <!--
