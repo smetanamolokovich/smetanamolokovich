@@ -1,4 +1,4 @@
-## Hi, I'm Aituar 👋
+## Hi, I'm Aituar 👋🏼
 #### Frontend developer. Based in Prague.
 - 💻 Dev stack: JS/TS, React, Vue, Node, MongoDB
 - 📫 Email: aituufs@gmail.com
